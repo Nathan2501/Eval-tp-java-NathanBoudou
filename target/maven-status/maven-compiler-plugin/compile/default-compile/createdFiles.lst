@@ -1,0 +1,8 @@
+com\example\tp\repositories\CommunesRepository.class
+com\example\tp\models\Communes.class
+com\example\tp\controllersJSP\CommunesControllerJSP.class
+com\example\tp\controllers\CommunesController.class
+com\example\tp\exceptions\GlobalExceptionHandler.class
+com\example\tp\services\CommunesService.class
+com\example\tp\exceptions\GlobalExceptionHandlerJSP.class
+com\example\tp\TpApplication.class
